@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://dbUser:dbuser123@devtraningdb.fxb5g.mongodb.net/DevTrainingDB?retryWrites=true&w=majority",
+  "jwtToken": "whatitdoo",
+  "githubClientId": "047e0bf65627a0749e83",
+  "githubSecret": "38bc9b74ed79d5f4eddcd4f6f38aa0404f70e09f"
+}
